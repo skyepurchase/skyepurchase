@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <div id="badges">
         <a href="https://linkedin.com/in/skyepurchase">
-            <img src="https://img.shields.io/badges/LinkedIn-blue?style=fo-the-badge&log-linkedin&logoColor=white" alt="LinkedIn Badge"/>
+            <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
         </a>
     </div>
     <img src="https://komarev.com/ghpvc/?username=skyepurchase&style=flat-square&color=blue" alt=""/>
